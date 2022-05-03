@@ -3,4 +3,4 @@ This is a program that computes iterations of a specific elementary cellular aut
 An explanation of ECA can be found at en.wikipedia.org/wiki/Elementary_cellular_automata.
 The 8xp program is BASIC code for the 84PCE graphing calculator. If you copy over the code, it should work on any graphing calculator later than the 82, as long as you change the screen size from (0-164, 0-264) to (0-95, 0-127) for monochrome calculators.
 Changelog:
-03/05/2022: Made basic BASIC program, and attached 8xp file.
+03/05/2022: Made basic BASIC program, and attached 8xp file. 284 bytes.
